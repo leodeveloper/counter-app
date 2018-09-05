@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class counter extends Component {
   state = {
     count: 0,
-    tags: ["tag1", "tag2", "tag3"]
+    tags: ["tag1", "tag2", "tag3", "tags3"]
   };
   render() {
     return (
